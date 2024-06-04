@@ -1,0 +1,222 @@
+@media screen and (min-width: 768px) {
+
+
+
+	.sub-card .content-box h2 {
+		font-size: 24px;
+		line-height: 32px;
+		/* 116.667% */
+	}
+}
+
+@media(min-width:992px) {
+	.navbar-theme .nav-link {
+		padding-left: 1rem !important;
+		padding-right: 1rem !important;
+	}
+
+	.sub-title {
+		font-size: 36px;
+	}
+}
+
+@media(min-width:1650px) {
+	.service-card h4 {
+		font-size: 24px;
+		line-height: 34px;
+	}
+
+	.service-card .btn {
+		font-size: 12px;
+	}
+}
+
+@media(max-width:992px) {
+	.navbar-theme .nav-link {
+		line-height: 24px;
+	}
+}
+
+@media(max-width:767px) {
+
+	header {
+		padding: 1rem 1rem 1rem 1rem;
+	}
+
+	.service-background {
+		width: 50px;
+		height: 50px;
+		right: 100px;
+		top: 60px;
+	}
+
+	#service_carousel button.owl-prev {
+		left: 0;
+	}
+
+	#service_carousel button.owl-next {
+		right: 0;
+	}
+
+	.btn {
+		font-size: 0.7rem !important;
+		height: 30px;
+	}
+
+	.service-link {
+		font-size: 13px;
+		padding: 8px 0;
+	}
+
+	.bg-color-sect-NAP {
+		padding: 1rem 1rem;
+	}
+
+	.marg-inl-NABH {
+		margin-inline: 0rem;
+		padding-bottom: 1rem;
+	}
+
+	.h2-font-st {
+		font-size: 16px;
+	}
+
+	.bg-img-video-st-NAP {
+		width: -webkit-fill-available !important;
+		height: 150px !important;
+	}
+
+	.play-btn-animated {
+		width: 50px !important;
+		height: 50px !important;
+	}
+
+	.play-btn-animated:before,
+	.play-btn-animated:after {
+		width: 50px !important;
+		height: 50px !important;
+	}
+
+	.play-btn-animated i {
+		border-width: 10px 0 10px 10px;
+	}
+
+	.dots-about-img {
+		display: none;
+	}
+
+	.stat-figure {
+		font-size: 35px !important;
+		margin-bottom: 0px !important;
+
+	}
+
+	.stat {
+		margin-bottom: 1.4rem;
+	}
+
+	.ms-vn-NAP {
+		padding: 25px 25px;
+		margin-bottom: 1rem;
+	}
+
+	.ms-vn-NAP i {
+		font-size: 24px;
+	}
+
+	.ms-vn-NAP h4 {
+		font-size: 20px;
+		margin: 10px 0;
+	}
+
+	.NAP-last-sect {
+		margin-top: 0rem;
+		padding: 2rem 1rem 4rem 1rem;
+		background-size: contain;
+		margin-bottom: 3rem !important;
+	}
+
+	.pdng-5-NAP-secn {
+		padding-top: 1rem;
+		padding-bottom: 0rem;
+	}
+
+	.NAP-last-sect .content-box h2 {
+		font-size: 16px;
+		text-align: left;
+	}
+
+	.NAP-last-sect .content-box p {
+		text-align: left;
+		width: 100%;
+		font-size: 16px !important;
+		line-height: 1.4 !important;
+	}
+
+	.style5 .box {
+		padding: 25px 25px;
+		text-align: left;
+		font-size: 12px;
+		top: 75px;
+	}
+
+	.ds-logo-N {
+		width: 60%;
+	}
+
+	.panel-title-ND h4 {
+		font-size: 16px;
+	}
+
+	header {
+		margin-top: 62px;
+	}
+
+	.foot-card-sec .row {
+		margin-inline: 0rem;
+	}
+
+	#lvideo-wrap .lvideo-container {
+		height: 100dvh !important;
+	}
+
+	#lvideo-wrap video,
+	#lvideo-wrap iframe {
+		height: auto !important;
+		width: 90% !important;
+	}
+
+	#lvideo-wrap .lvideo-close {
+		top: 18% !important;
+		width: 25px !important;
+		height: 25px !important;
+	}
+
+	.bg-map-NH-UK {
+		background-position: center;
+		background-size: contain;
+		transform: scale(1.4);
+		height: 100px;
+	}
+
+	.bg-map-NH-UAE {
+		background-size: cover;
+		background-position: right;
+		transform: scale(1.4);
+		height: 100px;
+	}
+
+	.bg-map-NH-USA {
+		background-size: cover;
+		transform: scale(1.4);
+		height: 100px;
+	}
+
+	.bg-map-NH-PAK {
+		background-size: cover;
+		transform: scale(1.4);
+		height: 100px;
+	}
+
+
+}
